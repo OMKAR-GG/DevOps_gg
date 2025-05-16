@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Temporary files from Nagios setup
+temp_status_*.cfg
+minikube-installer.exe
+minikube-windows-amd64.exe
+minikube.exe
+NagiosDockerfile
+
+# Keep only the necessary Docker monitoring files
